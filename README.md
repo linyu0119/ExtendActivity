@@ -112,5 +112,5 @@
   https://github.com/linyu0119/ExtendActivity/blob/master/images/2.png
   https://github.com/linyu0119/ExtendActivity/blob/master/images/3.png
   https://github.com/linyu0119/ExtendActivity/blob/master/images/4.png
-  https://github.com/linyu0119/ExtendActivity/blob/master/images/5.png
-  https://github.com/linyu0119/ExtendActivity/blob/master/images/6.png
+  https://github.com/linyu0119/ExtendActivity/blob/master/images/5.jpg
+  https://github.com/linyu0119/ExtendActivity/blob/master/images/6.jpg
